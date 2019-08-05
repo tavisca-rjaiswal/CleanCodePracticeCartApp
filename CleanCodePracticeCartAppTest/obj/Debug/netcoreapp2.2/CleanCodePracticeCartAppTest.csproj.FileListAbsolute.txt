@@ -1,0 +1,16 @@
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.deps.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.runtimeconfig.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.runtimeconfig.dev.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.pdb
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.pdb
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.csprojResolveAssemblyReference.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.csproj.CoreCompileInputs.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.AssemblyInfoInputs.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.AssemblyInfo.cs
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartAppTest\obj\Debug\netcoreapp2.2\CleanCodePracticeCartAppTest.pdb

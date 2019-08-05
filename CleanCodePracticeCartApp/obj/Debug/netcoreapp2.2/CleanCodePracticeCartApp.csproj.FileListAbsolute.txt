@@ -1,0 +1,11 @@
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.deps.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.runtimeconfig.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.runtimeconfig.dev.json
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\bin\Debug\netcoreapp2.2\CleanCodePracticeCartApp.pdb
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.csprojResolveAssemblyReference.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.csproj.CoreCompileInputs.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.AssemblyInfoInputs.cache
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.AssemblyInfo.cs
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.dll
+C:\Users\rjaiswal\source\repos\CleanCodePracticeCartApp\CleanCodePracticeCartApp\obj\Debug\netcoreapp2.2\CleanCodePracticeCartApp.pdb
